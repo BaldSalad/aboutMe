@@ -47,12 +47,32 @@ Platforms & Tools
 
 
 
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BaldSalad&show_icons=true&theme=github_dark&hide_border=true" height="165"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaldSalad&layout=compact&theme=github_dark&hide_border=true" height="165"> </p>
-🔥 Contribution Streak
-<p align="center"> <img src="https://streak-stats.demolab.com?user=BaldSalad&theme=github-dark-blue&hide_border=true"/> </p>
-👀 Profile Views
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=BaldSalad&label=Profile%20Views&color=58A6FF&style=flat" /> </p>
-⚡ Philosophy
-Good systems are invisible.
-Great systems are intentional.
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BaldSalad&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaldSalad&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" height="170"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BaldSalad&theme=github-dark-blue&hide_border=true&background=00000000"/>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BaldSalad&label=Profile%20Views&color=58A6FF&style=flat"/>
+</p>
+
+---
+
+## ⚡ Philosophy
+
+> Good systems are invisible.  
+> Great systems are intentional.
